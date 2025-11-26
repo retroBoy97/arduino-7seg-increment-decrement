@@ -9,10 +9,10 @@ This is a simple Arduino project using a 7-segment display with **two buttons**:
 ## Demo
 
 ### Photo of the setup
-![Project Photo](photo.jpg)
+![Project Photo](Media/photo.jpg)
 
 ### Demo Video
-[Watch the demo video](demo.mp4)
+[Watch the demo video](Media/demo.mp4)
 
 ---
 
