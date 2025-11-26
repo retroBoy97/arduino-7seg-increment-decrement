@@ -35,12 +35,12 @@ This is a simple Arduino project using a 7-segment display with **two buttons**:
 ## Wiring
 - Connect the 7-segment display to digital pins of the Arduino
 - Connect the buttons to analog/digital pins and GND
-- Ensure proper pull-down/pull-up resistors if needed
+- Ensure proper pull-down/pull-up resistors
 
 ---
 
 ## Code
-- Upload the `counter.ino` file to your Arduino using the Arduino IDE
+- Upload the `counter_7_segment.ino` file to your Arduino using the Arduino IDE
 - Modify pin numbers in the code if your wiring is different
 
 ---
