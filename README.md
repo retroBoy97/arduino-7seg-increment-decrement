@@ -12,7 +12,7 @@ This is a simple Arduino project using a 7-segment display with **two buttons**:
 ![Project Photo](Media/photo.jpg)
 
 ### Demo Video
-[Watch the demo video](Media/Demo.gif)
+[Watch the demo video](Media/Demo.mp4)
 
 ---
 
